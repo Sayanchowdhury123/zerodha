@@ -51,10 +51,9 @@ scrennshots:-
 
 ![Screenshot_13-3-2025_152335_localhost](https://github.com/user-attachments/assets/d406b063-12e6-4ec0-8873-67953082b9bf)
 
-![Screenshot_13-3-2025_152316_localhost](https://github.com/user-attachments/assets/a2c30daa-ab44-4b80-8c21-aca1f7e2f7ba)
 
 
 ![Screenshot_13-3-2025_152249_localhost](https://github.com/user-attachments/assets/a5f15764-2c8a-4e52-a731-c92aa0402f32)
 
-![Screenshot_13-3-2025_152349_localhost](https://github.com/user-attachments/assets/3b641d7a-9ec3-4c52-b8ee-9fee8ad96fe6)
+
 
