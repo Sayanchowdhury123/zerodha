@@ -46,7 +46,8 @@ scrennshots:-
 
 
 ![Screenshot_13-3-2025_15229_localhost](https://github.com/user-attachments/assets/c8ab3172-51a3-44ac-b547-66434c1e8a3c)
-![Screenshot_13-3-2025_152322_localhost](https://github.com/user-attachments/assets/b7d17e5b-2dd2-438e-b10f-22bcd517ea8a)
+
+
 
 ![Screenshot_13-3-2025_152335_localhost](https://github.com/user-attachments/assets/d406b063-12e6-4ec0-8873-67953082b9bf)
 
